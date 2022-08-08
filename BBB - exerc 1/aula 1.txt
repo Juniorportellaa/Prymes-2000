@@ -30,5 +30,10 @@ esc
 
 cd (nome da pasta entra)
 cd .. (volta uma pasta)
-(link uteis ..{https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux} )
+
+	(link uteis ..{
+
+		https://gist.github.com/leocomelli/2545add34e4fec21ec16
+		https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux} 
+	)
 
